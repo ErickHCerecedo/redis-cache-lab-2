@@ -8,7 +8,7 @@ La fuente de consulta de este laporatorio esta en este [link](https://www.codeme
 
 ## Resultado
 
-En las siguientes imagenes se encuentra la comparacion de velocidad al manejar la memoria cache, la primera la consulta tarda 2s y en la segunda 6 milisegundos.
+En las siguientes imagenes se encuentra la comparacion de velocidad al manejar la memoria cache, la primera la consulta tarda 2s y en la segunda 32 milisegundos.
 
 
 ![imagen 1](lab-dos-1.png)
